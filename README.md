@@ -1,8 +1,5 @@
-Absolutely — here is the **entire full README.md**, complete, polished, and ready to paste directly into your repository.
 
----
-
-# 🚀 LifeOS Tracker
+# 🚀 PERSONAL TRACKER
 
 A powerful, all-in-one productivity dashboard built with **React**, **TypeScript**, and **Tailwind CSS**.
 LifeOS Tracker helps you manage habits, goals, tasks, distractions, and weekly reflections—all in one smart, AI-powered interface.
